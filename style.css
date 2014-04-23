@@ -1,6 +1,8 @@
 .box{
 	width:200px;
 	height:200px;
+	float:left;
+	margin:20px;
 }
 
 #boxA{
@@ -12,7 +14,7 @@
 }
 
 #boxC{
-	background-color: #E6F7F9;
+	background-color: #ff004c;
 }
 
 #boxD{
